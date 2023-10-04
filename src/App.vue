@@ -39,7 +39,7 @@
 </script>
 
 <template>
-  <div class="container">
+  <div class="container bg-light mt-4 rounded-3">
     <h1 class="text-center py-4"> Calculadora</h1>
     <FormCalc :numberOne="event=>state.numberOne=event.target.value" :numberTwo="event=>state.numberTwo=event.target.value"></FormCalc>
     <SelectOptions :operationType="event=>state.operationType=event.target.value"></SelectOptions>
@@ -48,5 +48,4 @@
 </template>
 
 <style scoped>
-
 </style>
