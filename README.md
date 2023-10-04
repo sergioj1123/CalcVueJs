@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# Calculadora usando o VueJS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Visão geral
 
-## Recommended IDE Setup
+- Introdução
+- Execução
+- Vercel
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Introdução**
+
+Esse projeto é uma calculadora aritmética, desenvolvido utilizando o VueJS.
+
+**Execução**
+
+- npm install
+- npm run dev
+
+**Vercel**
+
+- [[Link do projeto para a Vercel](https://calc-vue-js.vercel.app/))
